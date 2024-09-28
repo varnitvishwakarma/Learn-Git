@@ -3,3 +3,4 @@ and can remove user
 and can changes the rule
 manage the database 
 manage the access
+closing the connection 
